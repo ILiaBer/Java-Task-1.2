@@ -5,6 +5,7 @@
 На тестирование затрачено 1 час
 
 В результате тестирования выявлен дефект:
+
 ["Result is FAIL" для карт некоторых банков в программе Credit Card Number Validator.](https://github.com/ILiaBer/Java-Task-1.2/issues/new)
 
 
